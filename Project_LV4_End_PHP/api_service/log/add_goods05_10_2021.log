@@ -1,0 +1,112 @@
+
+05/10/2021 00:56:08 127.0.0.1 content:{
+    "type_material":"M5",
+    "price":50.89,
+    "amount":"55.35"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M5', '50.89', '55.35')result:0
+
+05/10/2021 00:58:21 127.0.0.1 content:{
+    "type_material":"M5",
+    "price":50.89,
+    "amount":"55.35"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M5', '50.89', '55.35')result:1
+
+05/10/2021 01:59:36 127.0.0.1 content:{
+    "type_material":"M5",
+    "price":50.89,
+    "amount":"55.35"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON offer_sale.sale_no = agent.agent_idresult:1
+
+05/10/2021 02:01:26 127.0.0.1 content:{
+    "type_material":"M6",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON offer_sale.sale_no = agent.agent_idresult:1
+
+05/10/2021 02:03:41 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON agent.agent_id = offer_sale.sale_noresult:1
+
+05/10/2021 02:05:15 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M7', '40.99', '56.33')result:0
+
+05/10/2021 02:07:16 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) VALUES ('M7', '40.99', '56.33') SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON agent.agent_id = offer_sale.sale_noresult:0
+
+05/10/2021 02:07:17 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) VALUES ('M7', '40.99', '56.33') SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON agent.agent_id = offer_sale.sale_noresult:0
+
+05/10/2021 02:08:22 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale(type_material, price, amount) VALUES ('M7', '40.99', '56.33') SELECT offer_sale.type_material, offer_sale.price, offer_sale.amount
+                    FROM agent INNER JOIN offer_sale ON agent.agent_id = offer_sale.sale_noresult:0
+
+05/10/2021 02:08:52 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M7', '40.99', '56.33')result:1
+
+05/10/2021 02:09:22 127.0.0.1 content:{"type_material":"M15","price":"12.33","amount":"240.00"} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M15', '12.33', '240.00')result:1
+
+05/10/2021 02:32:25 127.0.0.1 content:{
+    "type_material":"M7",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M7', '40.99', '56.33')result:0
+
+05/10/2021 02:33:35 127.0.0.1 content:{"type_material":"M15","price":"12.33","amount":"26.33"} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M15', '12.33', '26.33')result:0
+
+05/10/2021 02:34:53 127.0.0.1 content:{
+    "type_material":"M8",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M8', '40.99', '56.33')result:0
+
+05/10/2021 02:38:29 127.0.0.1 content:{
+    "type_material":"M8",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M8', '40.99', '56.33')result:1
+
+05/10/2021 02:44:08 127.0.0.1 content:{
+    "type_material":"M9",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (sale_no, type_material, price, amount) VALUES ('', 'M9', '40.99', '56.33')result:1
+
+05/10/2021 02:45:12 127.0.0.1 content:{
+    "type_material":"M9",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (sale_no, type_material, price, amount) VALUES ('', 'M9', '40.99', '56.33')result:0
+
+05/10/2021 02:59:56 127.0.0.1 content:{
+    "type_material":"M9",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (sale_no, type_material, price, amount) VALUES ('', 'M9', '40.99', '56.33')result:0
+
+05/10/2021 03:00:22 127.0.0.1 content:{
+    "type_material":"M9",
+    "price":40.99,
+    "amount":"56.33"
+} SQL:INSERT INTO offer_sale (sale_no, type_material, price, amount) VALUES ('', 'M9', '40.99', '56.33')result:1

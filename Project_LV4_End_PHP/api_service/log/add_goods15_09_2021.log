@@ -1,0 +1,80 @@
+
+15/09/2021 03:40:29 127.0.0.1 content:{
+    "id_sale":"S002",
+    "type_material":"A14",
+    "price":250,
+    "num_material": 50
+} SQL:
+
+15/09/2021 20:49:52 127.0.0.1 content:{
+    "id_sale":"S002",
+    "type_material":"A14",
+    "price":250,
+    "amount": 50
+} SQL:
+
+15/09/2021 20:53:00 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A10",
+    "price":250,
+    "amount": 50
+} SQL:
+
+15/09/2021 20:53:15 127.0.0.1 content: SQL:
+
+15/09/2021 20:54:40 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A10",
+    "price":250,
+    "amount": 50
+} SQL:
+
+15/09/2021 23:06:50 127.0.0.1 content: SQL:
+
+15/09/2021 23:48:27 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A10",
+    "price":250,
+    "amount": 50
+} SQL:
+
+15/09/2021 23:48:45 127.0.0.1 content: SQL:
+
+15/09/2021 23:48:47 127.0.0.1 content: SQL:
+
+15/09/2021 23:48:48 127.0.0.1 content: SQL:
+
+15/09/2021 23:48:48 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:04 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A10",
+    "price":250,
+    "amount": 50
+} SQL:
+
+15/09/2021 23:50:30 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:32 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:33 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:33 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:33 127.0.0.1 content: SQL:
+
+15/09/2021 23:50:33 127.0.0.1 content: SQL:
+
+15/09/2021 23:52:36 127.0.0.1 content:{
+    "id_sale":"S002",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:
+
+15/09/2021 23:58:58 127.0.0.1 content:{
+    "id_sale":"S002",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:

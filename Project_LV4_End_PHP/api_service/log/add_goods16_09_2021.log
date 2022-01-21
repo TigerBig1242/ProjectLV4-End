@@ -1,0 +1,51 @@
+
+16/09/2021 00:01:09 127.0.0.1 content:{
+    "id_sale":"S003",
+    "type_material":"A13",
+    "price":150,
+    "amount": 20
+} SQL:
+
+16/09/2021 00:03:21 127.0.0.1 content:{
+    "id_sale":"S003",
+    "type_material":"A13",
+    "price":150,
+    "amount": 20
+} SQL:
+
+16/09/2021 00:03:31 127.0.0.1 content: SQL:
+
+16/09/2021 00:05:05 127.0.0.1 content:{
+    "id_sale":"S003",
+    "type_material":"A13",
+    "price":150,
+    "amount": 20
+} SQL:
+
+16/09/2021 00:07:43 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:
+
+16/09/2021 00:09:15 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:
+
+16/09/2021 00:10:37 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:
+
+16/09/2021 01:03:02 127.0.0.1 content:{
+    "id_sale":"S001",
+    "type_material":"A12",
+    "price":350,
+    "amount": 60
+} SQL:

@@ -1,0 +1,10 @@
+
+10/10/21 01:41:20 127.0.0.1 content:{"username":"thammaphop@gmai","password":"big223"}result_OBJ:Array
+(
+    [agent_id] => A12
+    [agent_name] => ธรรมภพ
+    [agent_email] => thammaphop@gmai
+    [agent_password] => big223
+    [agent_gender] => ชาย
+)
+num:1result:1

@@ -1,0 +1,30 @@
+
+24/09/2021 00:44:33 127.0.0.1 content:{
+    "type_material":"M2",
+    "price":20.36,
+    "amount":55.39
+} SQL:
+
+24/09/2021 00:48:38 127.0.0.1 content:{
+    "type_material":"M2",
+    "price":20.36,
+    "amount":55.39
+} SQL:
+
+24/09/2021 01:46:11 127.0.0.1 content:{
+    "type_material":"M2",
+    "price":20.36,
+    "amount":55.39
+} SQL:result:1
+
+24/09/2021 01:47:11 127.0.0.1 content:{
+    "type_material":"M2",
+    "price":20.36,
+    "amount":55.39
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M2', '20.36', '55.39')result:1data:Array
+
+24/09/2021 01:48:27 127.0.0.1 content:{
+    "type_material":"M2",
+    "price":20.36,
+    "amount":55.39
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M2', '20.36', '55.39')result:1

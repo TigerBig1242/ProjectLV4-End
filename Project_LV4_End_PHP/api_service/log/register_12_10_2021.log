@@ -1,0 +1,38 @@
+
+12/10/2021 17:25:12 127.0.0.1 content: SQL:result:0
+
+12/10/2021 23:49:46 127.0.0.1 content:{
+    "agent_id":"A12",
+    "agent_name":"Thammaphop Butkote",
+    "agent_email":"thammaphop123@gmail.com",
+    "agent_password":"big129",
+    "agent_gender":"Male",
+    "agent_tell":"0987345689",
+    "agent_address":"Loei"
+} SQL:result:0
+
+12/10/2021 23:49:56 127.0.0.1 content: SQL:result:0
+
+12/10/2021 23:50:55 127.0.0.1 content:{
+    "agent_id":"A13",
+    "agent_name":"Thammaphop Butkote",
+    "agent_email":"thammaphop123@gmail.com",
+    "agent_password":"big129",
+    "agent_gender":"Male",
+    "agent_tell":"0987345689",
+    "agent_address":"Loei"
+} SQL:result:0
+
+12/10/2021 23:51:12 127.0.0.1 content:{
+    "agent_id":"A14",
+    "agent_name":"Thammaphop Butkote",
+    "agent_email":"thammaphop123@gmail.com",
+    "agent_password":"big129",
+    "agent_gender":"Male",
+    "agent_tell":"0987345689",
+    "agent_address":"Loei"
+} SQL:result:1
+
+12/10/2021 23:51:39 127.0.0.1 content: SQL:result:0
+
+12/10/2021 23:56:17 127.0.0.1 content: SQL:result:0

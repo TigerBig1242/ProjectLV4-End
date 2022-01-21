@@ -1,0 +1,10 @@
+
+12/10/21 23:57:03 127.0.0.1 content:{"username":"thammaphop123@g","password":"big129"}result_OBJ:Array
+(
+    [agent_id] => A14
+    [agent_name] => Thammaphop Butkote
+    [agent_email] => thammaphop123@g
+    [agent_password] => big129
+    [agent_gender] => Male
+)
+num:1result:1

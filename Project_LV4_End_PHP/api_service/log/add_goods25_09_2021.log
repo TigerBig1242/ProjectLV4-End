@@ -1,0 +1,6 @@
+
+25/09/2021 02:00:02 127.0.0.1 content:{
+    "type_material":"M3",
+    "price":25.36,
+    "amount":65.39
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M3', '25.36', '65.39')result:1

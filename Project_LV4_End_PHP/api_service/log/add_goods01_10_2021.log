@@ -1,0 +1,10 @@
+
+01/10/2021 01:58:16 127.0.0.1 content:{
+    "type_material":"M4",
+    "price":50.89,
+    "amount":"55.35"
+} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M4', '50.89', '55.35')result:1
+
+01/10/2021 02:14:28 127.0.0.1 content:{"type_material":"M15","price":"56.33","amount":"240.00"} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M15', '56.33', '240.00')result:1
+
+01/10/2021 02:15:08 127.0.0.1 content:{"type_material":"M17","price":"20.36","amount":"25.63"} SQL:INSERT INTO offer_sale (type_material, price, amount) VALUES ('M17', '20.36', '25.63')result:1

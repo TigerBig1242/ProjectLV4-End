@@ -1,0 +1,36 @@
+
+22/09/2021 02:16:36 127.0.0.1 content:{
+    "material":"A",
+    "price":150.39,
+    "amount":"59.33"
+} SQL:
+
+22/09/2021 02:16:55 127.0.0.1 content:{
+    "material":"A",
+    "price":150.39,
+    "amount":"59.33"
+} SQL:
+
+22/09/2021 02:26:38 127.0.0.1 content:{
+    "material":"A",
+    "price":150.39,
+    "amount":"59.33"
+} SQL:
+
+22/09/2021 02:52:58 127.0.0.1 content:{
+    "material":"A",
+    "price":15.23,
+    "amount":50.99
+} SQL:
+
+22/09/2021 02:58:17 127.0.0.1 content:{
+    "material":"A",
+    "price":20.89,
+    "amount":60.99
+} SQL:
+
+22/09/2021 10:53:39 127.0.0.1 content:{
+    "type_material":"B",
+    "price":20.89,
+    "amount":60.99
+} SQL:

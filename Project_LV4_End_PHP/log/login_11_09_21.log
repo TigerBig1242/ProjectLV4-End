@@ -1,0 +1,28 @@
+
+11/09/21 02:33:35 127.0.0.1 content:
+ SQL:SELECT * FROM agent WHERE agent_email = '' AND agent_password = '' result:0 rep:Array
+(
+    [agnet_ib] => 
+    [agnet_email] => 
+    [agnet_name] => 
+    [agnet_password] => 
+    [agnet_phone] => 
+    [agnet_gender] => 
+    [agnet_address] => 
+)
+
+
+11/09/21 02:39:28 127.0.0.1 content:{
+"'agent_email'='big123@god.com';"
+"'agent_password'='big123';"
+} SQL:SELECT * FROM agent WHERE agent_email = '' AND agent_password = '' result:0 rep:Array
+(
+    [agnet_ib] => 
+    [agnet_email] => 
+    [agnet_name] => 
+    [agnet_password] => 
+    [agnet_phone] => 
+    [agnet_gender] => 
+    [agnet_address] => 
+)
+
